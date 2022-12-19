@@ -1,5 +1,5 @@
 # Batch6_Bootcamp_Projects
-Data Science bootcamp with 'Data Rockie'
+Data Science bootcamp with Data Rockie
 
 We learn 10 spints during 4 months programs
 
