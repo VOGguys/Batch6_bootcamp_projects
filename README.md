@@ -14,4 +14,3 @@ We learn 10 spints during 4 months programs
 - Essential Python for Data Analyst
 - Dashboard
 
-Bages:
