@@ -28,3 +28,6 @@ We learn 10 spints during 4 months program.These are project or homework in `Dat
 ## Dashboard
 - [PlayStation](https://lookerstudio.google.com/reporting/62e1e69d-837d-485a-85bd-ea4918b2633a) - Create dashboard from public dataset in `Looker Studio`.
 - [Phone_Spec](https://public.tableau.com/views/PhoneVisualization/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) - Create dashboard from public dataset in `Tableau Public`.
+
+![DataRockie School - Certified Professional Data Analyst - 2023-02-28](https://user-images.githubusercontent.com/117499744/221825929-688ef9b5-edb2-4655-a3ae-6de23c018db6.png)
+
