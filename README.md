@@ -17,8 +17,8 @@ We learn 10 spints during 4 months program.These are project or homework in `Dat
 - [linear_Regression](https://docs.google.com/spreadsheets/d/1icTwZKAzRb3jPJjffOzB4Iz8tEbdnLhyGLYboMFKNfw/edit#gid=0) - Basic knowlegde of `linear Regression` in Excel and Spreadsheets
 - [AB_Test](https://docs.google.com/spreadsheets/d/1Al5xKuL7qmOAEtF2PUp2WzyESesJo48xKmQ8NELQPO4/edit#gid=0) - Basic knowlegde of `AB Test` in Excel and Spreadsheets
 ## Classical Machine Learning
-- [Regression_Model.r]() - Creat a regression model uesd `Caret` to build model and used `Repleasted K-Fold Cross Validation` for resampling populations to predict the house sales in King County, Washington State, USA.
-- [Classification_Models.r]() - Create a Classification Models with `PimaIndiansDiabetes dataset` to create a segment of what person has diabetes and select the most effective model to find the confusionmatrix.
+- [Regression_Model.r](https://github.com/VOGguys/Batch6_bootcamp_projects/blob/enjoy/ml_project/regression_model.r) - Creat a regression model uesd `Caret` to build model and used `Repleasted K-Fold Cross Validation` for resampling populations to predict the house sales in King County, Washington State, USA.
+- [Classification_Models.r](https://github.com/VOGguys/Batch6_bootcamp_projects/blob/enjoy/ml_project/classification_models.r) - Create a Classification Models with `PimaIndiansDiabetes dataset` to create a segment of what person has diabetes and select the most effective model to find the confusionmatrix.
 ## Intro to Python
 - [ATM_Class.ipynb](https://github.com/VOGguys/Batch6_bootcamp_projects/blob/enjoy/ATM.ipynb) - An ATM class used `Object-Oriented Programming` containing at least 5 methods as ATM functions to interact with users.
 - [Pao_Ying_Chub_Game.ipynb](https://github.com/VOGguys/Batch6_bootcamp_projects/blob/enjoy/PaoYingChoob.ipynb) - Create game can be interactive by used basic knowlegde in `Python`.
